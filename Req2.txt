@@ -1,0 +1,30 @@
+python-dotenv
+livekit-agents
+livekit-plugins-silero
+livekit-plugins-google
+
+
+httpx
+
+
+*/
+pip install -r requirements.txt
+*/
+
+
+
+
+
+
+
+
+*/ 
+
+    To install the packages individually
+
+*/
+
+pip install python-dotenv
+pip install livekit-agents
+pip install livekit-plugins-silero
+pip install livekit-plugins-google
